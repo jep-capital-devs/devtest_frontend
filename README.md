@@ -1,3 +1,6 @@
+# DELIVERY OF TEST #
+AFTER COMPLETION PLEASE ZIP THE APPLICATION UP AND EMAIL THE TEST TO brian.ellis@bondexchange.com
+
 # Who to contact for issues
 Brian Ellis - brian.ellis@bondexchange.com
 
